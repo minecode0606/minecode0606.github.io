@@ -3,9 +3,8 @@ layout: home
 image : /assets/images/view.jpeg
 alt_title: "MinseoKang"
 sub_title: "Artificial Intelligence Developer & Data Scientist"
---- 
-  
-  
+---
+
 # ADOUT ME.
 안녕하세요 👋  
 저는 용인힌국외국어대학교부설고등학교에 재학중인 강민서 입니다.  
@@ -48,3 +47,4 @@ minseo_0606@naver.com
 
 **Discord** -  
 강민서#4052
+
