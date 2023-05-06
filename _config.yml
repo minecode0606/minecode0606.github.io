@@ -83,3 +83,7 @@ defaults:
     values:
       layout: post
       read_time: true
+collections:
+  posts:
+    output: true
+    permalink: /posts/:title
