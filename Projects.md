@@ -1,7 +1,7 @@
 ---
-title: My Project
-layout: posts
-paginate : true
+title: My Projects
+layout: collection
 permalink: /projects/
-entries_layout: list
+collection: projects
+entries_layout: grid
 ---

@@ -94,3 +94,6 @@ collections:
   posts:
     output: true
     permalink: /posts/:title
+  projects:
+    output: true
+    permalink: /:collection/:path/
