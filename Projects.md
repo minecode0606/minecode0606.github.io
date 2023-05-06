@@ -1,7 +1,7 @@
 ---
-title: My Blog
+title: My Project
 layout: posts
 paginate : true
-permalink: /posts/
+permalink: /projects/
 entries_layout: list
 ---

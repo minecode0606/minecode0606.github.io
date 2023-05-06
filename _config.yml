@@ -83,6 +83,13 @@ defaults:
     values:
       layout: post
       read_time: true
+  - scope:
+      path: "_project"
+      type: posts
+    values:
+      layout: post
+      read_time : true
+
 collections:
   posts:
     output: true
