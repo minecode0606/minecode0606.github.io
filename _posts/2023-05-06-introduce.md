@@ -29,7 +29,7 @@ actions:
 (대학은 갈수 있겠지..?)
 
 ## 2page. 강민서의 다짐.
-![freshmen](https://github.com/minecode0606/minecode0606.github.io/blob/master/assets/images/2023-05-07/freshmen.jpeg)  
+![freshmen](https://github.com/minecode0606/minecode0606.github.io/blob/master/assets/images/2023-05-07/freshmen.jpeg?raw=true)  
 이 선언서를 본지 얻그제 같은데 벌써 5월이야 ㅠㅠ. 그동안 난 뭐했지 생각해보면 놀랍게도 한게 없어.
 그래서 지금부터 열심히 해볼까 해. 그래서 몇가지 다짐을 하며 첫 개시물은 가볍게 마쳐볼려고 해.
 
