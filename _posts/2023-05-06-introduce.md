@@ -29,22 +29,23 @@ actions:
 (대학은 갈수 있겠지..?)
 
 ## 2page. 강민서의 다짐.
-![freshmen](https://github.com/minecode0606/minecode0606.github.io/blob/master/assets/images/2023-05-07/freshmen.jpeg?raw=true)  
+<img src="https://github.com/minecode0606/minecode0606.github.io/blob/master/assets/images/2023-05-07/freshmen.jpeg?raw=true" style="max-width: 200px; height: auto;">    
+ 
 이 선언서를 본지 얻그제 같은데 벌써 5월이야 ㅠㅠ. 그동안 난 뭐했지 생각해보면 놀랍게도 한게 없어.
 그래서 지금부터 열심히 해볼까 해. 그래서 몇가지 다짐을 하며 첫 개시물은 가볍게 마쳐볼려고 해.
 
-1. 나는 계획을 세울 것이다. 
-2. 나는 밤에 유튜브 보다가 3시간을 그냥 날리지 않을 것이다.
-3. 나는 개쩐다고 생각할 것이다.
+#### 1. 나는 계획을 세울 것이다. 
+#### 2. 나는 밤에 유튜브 보다가 3시간을 그냥 날리지 않을 것이다.
+#### 3. 나는 개쩐다고 생각할 것이다. 자신감을 가지자.
 
 다음 개시물은 좀 정성을 다해서 작성해보도록 할께. 사진을 많이 안찍는 성격이라
 블로그에 올릴게 딱히 없네. 마지막으로 우리 학교에 유일하게 급식이 맛있었던 3일의 급식 사진으로 마무리 할께.
 
 
 <div class="image-grid">
-  <img src="https://github.com/minecode0606/minecode0606.github.io/blob/master/assets/images/2023-05-07/KakaoTalk_Photo_2023-05-07-02-03-10%20001.jpeg">
-  <img src="https://github.com/minecode0606/minecode0606.github.io/blob/master/assets/images/2023-05-07/KakaoTalk_Photo_2023-05-07-02-03-11%20002.jpeg">
-  <img src="https://github.com/minecode0606/minecode0606.github.io/blob/master/assets/images/2023-05-07/KakaoTalk_Photo_2023-05-07-02-03-11%20003.jpeg">
+  <img src="https://github.com/minecode0606/minecode0606.github.io/blob/master/assets/images/2023-05-07/KakaoTalk_Photo_2023-05-07-02-03-10%20001.jpeg?raw=true">
+  <img src="https://github.com/minecode0606/minecode0606.github.io/blob/master/assets/images/2023-05-07/KakaoTalk_Photo_2023-05-07-02-03-11%20002.jpeg?raw=true">
+  <img src="https://github.com/minecode0606/minecode0606.github.io/blob/master/assets/images/2023-05-07/KakaoTalk_Photo_2023-05-07-02-03-11%20003.jpeg?raw=true">
 </div>
 
 <style>
