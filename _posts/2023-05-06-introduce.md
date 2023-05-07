@@ -31,7 +31,7 @@ actions:
 망해서 답이 없어. 그러니 나한테 시험 이야기는 하지 마.  
 (대학은 갈수 있겠지..?)
 
-## 2page. 개의 다짐.
+## 2page. 나의 다짐.
 <img src="https://github.com/minecode0606/minecode0606.github.io/blob/master/assets/images/2023-05-07/freshmen.jpeg?raw=true" style="max-width: 200px; height: auto;">    
  
 이 선언서를 본지 얻그제 같은데 벌써 5월이야 ㅠㅠ. 그동안 난 뭐했지 생각해보면 놀랍게도 한게 없어.
